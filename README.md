@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![GitGarden](https://gitgarden.marshallku.dev/?user_name=Dongniank)](https://github.com/marshallku/gitgarden)
+
+[![hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2FDongniank?color=blue&label=hits&size=small)](https://myhits.vercel.app)
